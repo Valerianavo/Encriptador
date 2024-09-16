@@ -34,7 +34,11 @@ Esperamos que este proyecto sea de utilidad para aquellos que buscan hablar en c
 
 *Código Femenino*
 ¡Impulsando la innovación femenina en el mundo del código!
+
 &copy; 2024 Código Femenino. Todos los derechos reservados.
+
+
 Emojix: Descifrando el Lenguaje Secreto de Emojis
+
 En la era digital actual, la seguridad de la información es fundamental. El encriptado es una técnica que nos permite proteger nuestros datos de accesos no autorizados.
 En este proyecto, hemos desarrollado un encriptador en JavaScript que permite a los usuarios cifrar y descifrar mensajes de manera segura y divertida.
